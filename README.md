@@ -1,25 +1,32 @@
+# Introduction to My Managerial Approach
+> I encourage collaboration through pull requests and issues. If you notice any differences in how I work compared to what's outlined here, I'm open to your insights.
 
-# My Manager README
+If you're reading this, you might be working with me, interested in collaborating, or simply curious about my managerial style. While many of the points covered below often come up naturally in our initial interactions, this document aims to provide an additional layer of understanding about how I can support you effectively.
 
-> Pull requests and issues welcomed. If you've noticed I work in a different way than this states, I'd love to hear it! 
+## Greetings, I'm Jonathan, a Multifaceted Manager
+If we've interacted for more than a few minutes within a professional context, you've likely noticed that I juggle various responsibilities. My primary role involves leading go-to-market efforts for the company, but I also engage in diverse tasks to foster growth for both myself, the company, and our team. These tasks range from recruitment to strategy and product-related activities. Feel free to inquire about my current undertakings if you're curious; I'm more than willing to share.
 
-If you’re reading this, you’re either working with me, interested in working with me, or just at some level curious how I operate as a manager.
-While I’m certain that most of the aspects below do come up in regular conversation over the first month or so of working under me (nor is this document intended to replace or override any of that relationship building), I think it’s important at some level to outline myself and how I can best benefit you.
-# Hi, I’m Jonathan, and I wear many hats
-If you’ve interfaced with me for more than a couple of minutes in a professional context, it’s going to become evident that I wear a number of hats. While my primary job is leading security efforts for the company, there’s a number of things that I do in addition to that role in order to best promote growth of myself, the company, and those around me. From recruiting, to strategy, to product — I do a lot. If you’re curious what I’m doing, please ask! I’m more than happy to give you some visibility.
-With that noted, my role (and the ultimate reason for this document) is to see you succeed. I believe success comes from fulfillment, both personal and professional. I want to know that I’m doing my best in ensuring you can grow as a person, as an employee, and as a member of the company at which we both work.
-In order to do that, this may take many forms. Whether reviewing code you’ve written, a report you’ve compiled, or just noting aspects of your performance as an engineer, I will strive to do my best constructively and in a way that I can best help you grow.
-# Feedback
-If you’ve got feedback for me — I want to hear it. I believe at some level in radical candor. I’m not one for sugar coating or beating around the bush. If there’s a way I can improve, please tell me.
-While I like to be given feedback in person, I’m open to email, or Slack if that is preferred. If you’d rather not tell these things to me directly, please voice it to my manager, and they’ll make sure I get that feedback anonymously.
-In turn, I’ll be straightforward with your feedback as well. If I see areas you can improve, I’ll let you know. If you’re doing great, I’ll let you know. Upon our first 1:1 I’ll ask a few questions pertaining to how you best like feedback (Frequency, how you prefer to receive it, etc). I’ll try my best to ensure I follow these.
-# Schedule
-My schedule is rather hectic, but it’s more than open for you when and where you need it. On any given day, it’s likely in a couple of meetings, but that doesn’t mean you can’t snag me for a chat.
-I heavily focus on my calendar. Scheduling something on there is the best way to traditionally get in touch with me. If you have a quick question, feel free to ask it. Traditionally speaking, email or Slack is the best way to get a hold of me, but if you’d rather we have an in person discussion, feel free to walk over to my desk and get my attention. If I do not immediately respond, give me a few seconds — I’m likely just wrapping up whatever it is I am working on so I can dedicate my full stream of consciousness to you.
-I prefer Slack or an email rather than short conversations (especially if I’m working on something pressing), but I’m open to having them. I’m pretty much alway down for coffee or a quick walk outside. Feel free to throw something on my calendar if that makes sense.
-I tend to work a fairly large amount of hours in the week, but I don’t expect your work schedule to mirror mine. I heavily believe in work-life balance — and if you’re capable of getting the work done that we agree upon during the week, that’s what matters to me. I will set meetings from time to time, and I prefer you attend them. If you can’t make them, let me know in advance. Above all, use good judgement.
-Similarly, if you want to work from home sometimes, I encourage you to do so. For myself, I typically work from home once or twice every two weeks, usually if I’m feeling under the weather. That said, if you’re not productive when you work from home, or if you can’t be available for video meetings when you work from home, I encourage you to come in to the office or take a day off.
-# Performance and 1:1
-It is likely we’ll have some weekly 1:1 scheduled. I’d prefer we schedule this at a time that is most convenient for you. Your 1:1 is your time — and while I may have some items to discuss with you, use this time as you please.
-While a 1:1 is a fantastic opportunity to discuss items that typically don’t make sense to be conversed around coworkers, don’t feel the need to only discuss these topics. Our 1:1 exists for me to help you best find happiness and growth. Everything discussed will stay confidential unless you request otherwise, or if it falls under a certain category of topics that your employee handbook will go over. If you’ve got blockers or concerns, I’d love to hear them during this meeting. If you’re curious about something, we can take a deep dive into it. We’ll try to have a weekly team meeting to recap events, so don’t feel the need to go through everything that happened this week (but if you want to go over a specific item or items, feel free).
-Above all, please remember that I’m here to help.
+That said, my main focus (and the purpose behind this document) is to ensure your success. I firmly believe that success derives from personal and professional fulfillment. I am committed to supporting your growth as an individual, an employee, and a valuable member of our company.
+
+Supporting your growth can take various forms. Whether it's code reviews, reviewing reports, or offering insights on your performance as an employee, I'm dedicated to providing constructive feedback that aids in your development.
+
+## Open Dialogue and Feedback
+Your feedback is incredibly valuable to me, and I'm eager to receive it. I believe in maintaining an environment of open communication. I prefer candid conversations over sugar-coating or evasiveness. If there are ways I can enhance my approach, please don't hesitate to share your thoughts.
+
+While I appreciate face-to-face feedback, I'm also open to receiving it through email or Slack if that suits you better. If you're not comfortable sharing your feedback directly with me, you can discuss it anonymously with my co-founder, who will ensure I receive it.
+
+In return, I'll be equally direct with my feedback for you. Whether there are areas for improvement or commendable efforts on your part, I'll communicate openly. During our initial one-on-one meeting, I'll inquire about your preferences regarding feedback frequency and delivery methods. I'll strive to respect and adhere to your preferences.
+
+## Communication and Availability
+My schedule tends to be quite busy, often involving several meetings. However, I'm always available to you when you need assistance. While I manage my calendar carefully, scheduling time with me is the most reliable way to connect. If you have a quick question, feel free to ask. Typically, email or Slack are the most efficient channels to reach me. Nevertheless, if you'd prefer an in-person discussion, don't hesitate to approach me at my desk. If I don't respond immediately, please give me a moment as I might be wrapping up my current task to give you my full attention.
+
+Though I generally prefer Slack or email for more involved discussions (especially if I'm focused on pressing matters), I'm open to shorter conversations as well. I'm also always up for coffee chats or short walks outdoors. Feel free to schedule these on my calendar if they align with your needs.
+
+While I do tend to work longer hours, I don't expect you to match my exact schedule. I strongly believe in maintaining a healthy work-life balance. As long as you complete the tasks we've agreed upon during the week, I'm content. Occasionally, I'll arrange meetings, and your attendance is appreciated. If you can't make a meeting, please inform me in advance. Above all, exercise good judgment.
+
+## Performance and One-on-One Meetings
+We'll likely have regular weekly one-on-one meetings. I'd prefer to schedule these at a time that suits you best. Your one-on-one time is yours to utilize, and while I may have specific topics to cover, feel free to use this time according to your needs.
+
+While one-on-ones are excellent for discussing matters that aren't suitable for broader conversations, don't feel restricted to those topics alone. Our one-on-one sessions are designed to aid your happiness and growth. Everything discussed will remain confidential unless you request otherwise or unless it pertains to specific subjects outlined in our employee handbook. If you're facing obstacles or concerns, I'm here to listen during these meetings. If you're curious about a topic, we can delve into it. We'll also have regular team meetings to recap events, so there's no need to cover every detail of the week unless you wish to highlight specific points.
+
+Above all, please remember that my intention is to provide support and assistance whenever you need it. Your success is my priority.
